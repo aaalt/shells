@@ -43,7 +43,7 @@ int main() {
     for (i = 0; i < LOOPS; i++)
         balance -= gameround();
 
-    printf("house edge: %lf\n", 1-(balance/LOOPS));
+    printf("RTP: %lf\n", 1-(balance/LOOPS));
 
     return 0;
 }
