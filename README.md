@@ -44,7 +44,7 @@ for ex.
       = 3     + (1.77 * 6) + (1    * 12)
 ```
 
-We can replace case N2, one win in three rounds, with `K` extra free round.
+We can replace case N2, one win in three rounds, with `K` extra free games.
 In this case formula is:
 ```
 HE = X * 1/27 + Y * 6/27 + K * 12/27 * HE = 
